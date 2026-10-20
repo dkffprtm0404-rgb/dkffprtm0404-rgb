@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="46" viewBox="0 0 720 46" role="img" aria-labelledby="title">
+  <title id="title">Java · Spring Boot · MyBatis · SQL · Git</title>
+  <g font-family="'Segoe UI',sans-serif" font-size="16" font-weight="600" text-anchor="middle">
+    <rect x="0" y="1" width="105" height="42" rx="8" fill="#fef0e4" stroke="#edc9ac"/><text x="52" y="28" fill="#8d481b">Java</text>
+    <rect x="115" y="1" width="178" height="42" rx="8" fill="#e8f4e6" stroke="#c4dfbe"/><text x="204" y="28" fill="#35652a">Spring Boot</text>
+    <rect x="303" y="1" width="145" height="42" rx="8" fill="#eaf0f9" stroke="#c4d2e6"/><text x="375" y="28" fill="#325681">MyBatis</text>
+    <rect x="458" y="1" width="105" height="42" rx="8" fill="#e3f4f1" stroke="#b9dcd5"/><text x="510" y="28" fill="#24685d">SQL</text>
+    <rect x="573" y="1" width="105" height="42" rx="8" fill="#f9eae6" stroke="#e7c7bc"/><text x="625" y="28" fill="#9b4931">Git</text>
+  </g>
+</svg>

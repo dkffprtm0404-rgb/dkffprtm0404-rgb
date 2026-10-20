@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="title desc">
+  <title id="title">정성윤 · Backend Developer</title>
+  <desc id="desc">운영 문제를 분석하고 성능과 안정성을 개선합니다. Java, Spring Boot, SQL. 로그에서 원인을 찾고 개선 결과를 검증하는 개발.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b172a"/><stop offset="1" stop-color="#142d40"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#56e0c5"/><stop offset="1" stop-color="#64a8ff"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#a7d6ee" stroke-opacity=".045"/></pattern>
+  </defs>
+  <rect width="1280" height="400" rx="20" fill="url(#bg)"/>
+  <rect width="1280" height="400" rx="20" fill="url(#grid)"/>
+  <rect x="52" y="49" width="36" height="4" rx="2" fill="#56e0c5"/>
+  <g font-family="'Segoe UI','Malgun Gothic',sans-serif">
+    <text x="103" y="56" fill="#a5bed1" font-size="17" font-weight="600" letter-spacing="3">BACKEND DEVELOPER</text>
+    <text x="52" y="147" fill="#f4f8fb" font-size="64" font-weight="700">정성윤</text>
+    <text x="282" y="145" fill="#9ab1c5" font-size="25" font-weight="400">SY Jung</text>
+    <text x="54" y="206" fill="#d8e5ef" font-size="28" font-weight="500">운영 문제를 분석하고</text>
+    <text x="54" y="250" fill="#d8e5ef" font-size="28" font-weight="500">성능과 안정성을 개선합니다.</text>
+    <g fill="#132e40" stroke="#315167">
+      <rect x="54" y="302" width="93" height="39" rx="8"/>
+      <rect x="159" y="302" width="163" height="39" rx="8"/>
+      <rect x="334" y="302" width="86" height="39" rx="8"/>
+    </g>
+    <g fill="#bceee3" font-size="18" font-weight="600">
+      <text x="79" y="328">Java</text><text x="180" y="328">Spring Boot</text><text x="357" y="328">SQL</text>
+    </g>
+  </g>
+  <rect x="745" y="48" width="484" height="303" rx="14" fill="#0a1525" stroke="#29475b"/>
+  <path d="M745 94H1229" stroke="#29475b"/>
+  <circle cx="771" cy="71" r="5" fill="#4e7289"/><circle cx="789" cy="71" r="5" fill="#4e7289"/><circle cx="807" cy="71" r="5" fill="#56e0c5"/>
+  <g font-family="Consolas,'Courier New',monospace" font-size="16">
+    <text x="1035" y="77" fill="#89a5bc">~/engineering</text>
+    <text x="775" y="130" fill="#56e0c5">$ trace --from=request</text>
+    <text x="775" y="167" fill="#b7cadb">01  observe  /  logs + data</text>
+    <text x="775" y="201" fill="#b7cadb">02  analyze  /  SQL + flow</text>
+    <text x="775" y="235" fill="#b7cadb">03  improve  /  code + query</text>
+    <text x="775" y="269" fill="#b7cadb">04  verify   /  before + after</text>
+    <text x="775" y="320" fill="#6a91ab">understand.</text>
+    <text x="900" y="320" fill="#6a91ab">improve.</text>
+    <text x="1000" y="320" fill="#56e0c5">verify.</text>
+  </g>
+  <rect x="52" y="379" width="1176" height="2" rx="1" fill="url(#accent)" opacity=".8"/>
+</svg>

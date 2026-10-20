@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="352" viewBox="0 0 640 352" role="img" aria-labelledby="title desc">
+  <title id="title">정성윤 · Backend Developer</title>
+  <desc id="desc">운영 문제를 분석하고 성능과 안정성을 개선합니다. Java, Spring Boot, SQL.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b172a"/><stop offset="1" stop-color="#142d40"/></linearGradient></defs>
+  <rect width="640" height="352" rx="20" fill="url(#bg)"/>
+  <rect x="36" y="35" width="28" height="4" rx="2" fill="#56e0c5"/>
+  <g font-family="'Segoe UI','Malgun Gothic',sans-serif">
+    <text x="78" y="43" fill="#a5bed1" font-size="19" font-weight="600" letter-spacing="2">BACKEND DEVELOPER</text>
+    <text x="34" y="123" fill="#f4f8fb" font-size="60" font-weight="700">정성윤</text>
+    <text x="254" y="120" fill="#9ab1c5" font-size="25">SY Jung</text>
+    <text x="36" y="184" fill="#d8e5ef" font-size="32" font-weight="500">운영 문제를 분석하고</text>
+    <text x="36" y="230" fill="#d8e5ef" font-size="32" font-weight="500">성능과 안정성을 개선합니다.</text>
+    <g fill="#132e40" stroke="#315167"><rect x="36" y="269" width="100" height="41" rx="8"/><rect x="150" y="269" width="169" height="41" rx="8"/><rect x="333" y="269" width="90" height="41" rx="8"/></g>
+    <g fill="#bceee3" font-size="20" font-weight="600"><text x="62" y="297">Java</text><text x="170" y="297">Spring Boot</text><text x="356" y="297">SQL</text></g>
+  </g>
+  <path d="M36 333H604" stroke="#56e0c5" stroke-width="2" opacity=".7"/>
+</svg>
